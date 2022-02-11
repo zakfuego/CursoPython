@@ -1,0 +1,81 @@
+,PdvID,PdvNombre,PdvPais,PdvCiudad,AuditoriaID,Respuesta,KpiID,KpiNombre,KpiTarget,KpiPeso,Cumplimiento,Nota
+0,10001,El porvenir,Colombia,Bogotá,7001001,0.8,1,Disponibilidad,0.8,0.3,1,0.3
+1,10002,La campiña,Colombia,Bogotá,7001002,0.4,1,Disponibilidad,0.8,0.3,0,0.0
+2,10003,El sol,Colombia,Bogotá,7001003,0.6,1,Disponibilidad,0.8,0.3,0,0.0
+3,10004,Fuente dorada,Colombia,Bogotá,7001004,0.8,1,Disponibilidad,0.8,0.3,1,0.3
+4,10005,El corazón,Colombia,Bogotá,7001005,0.6,1,Disponibilidad,0.8,0.3,0,0.0
+5,10006,Concordia,Colombia,Medellín,7001006,0.8,1,Disponibilidad,0.8,0.3,1,0.3
+6,10007,El pilar,Colombia,Medellín,7001007,0.8,1,Disponibilidad,0.8,0.3,1,0.3
+7,10008,Cuatro esquinas,Colombia,Medellín,7001008,1.0,1,Disponibilidad,0.8,0.3,1,0.3
+8,10009,La esquina,Colombia,Medellín,7001009,1.0,1,Disponibilidad,0.8,0.3,1,0.3
+9,10010,Dos puertos,Colombia,Medellín,7001010,1.0,1,Disponibilidad,0.8,0.3,1,0.3
+10,10011,Super tacos,México,México D.F,7001011,1.0,1,Disponibilidad,0.8,0.3,1,0.3
+11,10012,La agonía,México,México D.F,7001012,1.0,1,Disponibilidad,0.8,0.3,1,0.3
+12,10013,El pastor,México,México D.F,7001013,0.8,1,Disponibilidad,0.8,0.3,1,0.3
+13,10014,Chocolandia,México,México D.F,7001014,1.0,1,Disponibilidad,0.8,0.3,1,0.3
+14,10015,Los tamarindos,México,México D.F,7001015,0.8,1,Disponibilidad,0.8,0.3,1,0.3
+15,10016,La torre,México,Acapulco,7001016,0.8,1,Disponibilidad,0.8,0.3,1,0.3
+16,10017,Campo fresco,México,Acapulco,7001017,0.8,1,Disponibilidad,0.8,0.3,1,0.3
+17,10018,La competencia,México,Acapulco,7001018,0.4,1,Disponibilidad,0.8,0.3,0,0.0
+18,10019,Tutuman,México,Acapulco,7001019,0.6,1,Disponibilidad,0.8,0.3,0,0.0
+19,10020,El poórtico,México,Acapulco,7001020,0.8,1,Disponibilidad,0.8,0.3,1,0.3
+0,10001,El porvenir,Colombia,Bogotá,7001001,0.6730769230769231,2,Sovi,0.6,0.3,1,0.3
+1,10002,La campiña,Colombia,Bogotá,7001002,0.5641025641025641,2,Sovi,0.6,0.3,0,0.0
+2,10003,El sol,Colombia,Bogotá,7001003,0.6808510638297872,2,Sovi,0.6,0.3,1,0.3
+3,10004,Fuente dorada,Colombia,Bogotá,7001004,0.66,2,Sovi,0.6,0.3,1,0.3
+4,10005,El corazón,Colombia,Bogotá,7001005,1.0,2,Sovi,0.6,0.3,1,0.3
+5,10006,Concordia,Colombia,Medellín,7001006,1.0,2,Sovi,0.6,0.3,1,0.3
+6,10007,El pilar,Colombia,Medellín,7001007,0.16666666666666666,2,Sovi,0.6,0.3,0,0.0
+7,10008,Cuatro esquinas,Colombia,Medellín,7001008,1.0,2,Sovi,0.6,0.3,1,0.3
+8,10009,La esquina,Colombia,Medellín,7001009,0.7258064516129032,2,Sovi,0.6,0.3,1,0.3
+9,10010,Dos puertos,Colombia,Medellín,7001010,0.7258064516129032,2,Sovi,0.6,0.3,1,0.3
+10,10011,Super tacos,México,México D.F,7001011,0.7258064516129032,2,Sovi,0.6,0.3,1,0.3
+11,10012,La agonía,México,México D.F,7001012,0.7258064516129032,2,Sovi,0.6,0.3,1,0.3
+12,10013,El pastor,México,México D.F,7001013,0.7352941176470589,2,Sovi,0.6,0.3,1,0.3
+13,10014,Chocolandia,México,México D.F,7001014,1.0,2,Sovi,0.6,0.3,1,0.3
+14,10015,Los tamarindos,México,México D.F,7001015,0.8191489361702128,2,Sovi,0.6,0.3,1,0.3
+15,10016,La torre,México,Acapulco,7001016,0.7,2,Sovi,0.6,0.3,1,0.3
+16,10017,Campo fresco,México,Acapulco,7001017,0.6730769230769231,2,Sovi,0.6,0.3,1,0.3
+17,10018,La competencia,México,Acapulco,7001018,0.46875,2,Sovi,0.6,0.3,0,0.0
+18,10019,Tutuman,México,Acapulco,7001019,0.7837837837837838,2,Sovi,0.6,0.3,1,0.3
+19,10020,El poórtico,México,Acapulco,7001020,0.6730769230769231,2,Sovi,0.6,0.3,1,0.3
+0,10001,El porvenir,Colombia,Bogotá,7001001,0.6,3,Precio,0.8,0.3,0,0.0
+1,10002,La campiña,Colombia,Bogotá,7001002,0.4,3,Precio,0.8,0.3,0,0.0
+2,10003,El sol,Colombia,Bogotá,7001003,1.0,3,Precio,0.8,0.3,1,0.3
+3,10004,Fuente dorada,Colombia,Bogotá,7001004,1.0,3,Precio,0.8,0.3,1,0.3
+4,10005,El corazón,Colombia,Bogotá,7001005,1.0,3,Precio,0.8,0.3,1,0.3
+5,10006,Concordia,Colombia,Medellín,7001006,0.8,3,Precio,0.8,0.3,1,0.3
+6,10007,El pilar,Colombia,Medellín,7001007,0.6,3,Precio,0.8,0.3,0,0.0
+7,10008,Cuatro esquinas,Colombia,Medellín,7001008,1.0,3,Precio,0.8,0.3,1,0.3
+8,10009,La esquina,Colombia,Medellín,7001009,1.0,3,Precio,0.8,0.3,1,0.3
+9,10010,Dos puertos,Colombia,Medellín,7001010,1.0,3,Precio,0.8,0.3,1,0.3
+10,10011,Super tacos,México,México D.F,7001011,0.6,3,Precio,0.8,0.3,0,0.0
+11,10012,La agonía,México,México D.F,7001012,0.8,3,Precio,0.8,0.3,1,0.3
+12,10013,El pastor,México,México D.F,7001013,0.6,3,Precio,0.8,0.3,0,0.0
+13,10014,Chocolandia,México,México D.F,7001014,0.6,3,Precio,0.8,0.3,0,0.0
+14,10015,Los tamarindos,México,México D.F,7001015,0.8,3,Precio,0.8,0.3,1,0.3
+15,10016,La torre,México,Acapulco,7001016,0.4,3,Precio,0.8,0.3,0,0.0
+16,10017,Campo fresco,México,Acapulco,7001017,0.2,3,Precio,0.8,0.3,0,0.0
+17,10018,La competencia,México,Acapulco,7001018,0.2,3,Precio,0.8,0.3,0,0.0
+18,10019,Tutuman,México,Acapulco,7001019,0.6,3,Precio,0.8,0.3,0,0.0
+19,10020,El poórtico,México,Acapulco,7001020,0.6,3,Precio,0.8,0.3,0,0.0
+0,10001,El porvenir,Colombia,Bogotá,7001001,0.75,4,Satisfacción,0.75,0.1,1,0.1
+1,10002,La campiña,Colombia,Bogotá,7001002,1.0,4,Satisfacción,0.75,0.1,1,0.1
+2,10003,El sol,Colombia,Bogotá,7001003,0.5,4,Satisfacción,0.75,0.1,0,0.0
+3,10004,Fuente dorada,Colombia,Bogotá,7001004,0.75,4,Satisfacción,0.75,0.1,1,0.1
+4,10005,El corazón,Colombia,Bogotá,7001005,0.0,4,Satisfacción,0.75,0.1,0,0.0
+5,10006,Concordia,Colombia,Medellín,7001006,1.0,4,Satisfacción,0.75,0.1,1,0.1
+6,10007,El pilar,Colombia,Medellín,7001007,0.75,4,Satisfacción,0.75,0.1,1,0.1
+7,10008,Cuatro esquinas,Colombia,Medellín,7001008,1.0,4,Satisfacción,0.75,0.1,1,0.1
+8,10009,La esquina,Colombia,Medellín,7001009,1.0,4,Satisfacción,0.75,0.1,1,0.1
+9,10010,Dos puertos,Colombia,Medellín,7001010,1.0,4,Satisfacción,0.75,0.1,1,0.1
+10,10011,Super tacos,México,México D.F,7001011,1.0,4,Satisfacción,0.75,0.1,1,0.1
+11,10012,La agonía,México,México D.F,7001012,1.0,4,Satisfacción,0.75,0.1,1,0.1
+12,10013,El pastor,México,México D.F,7001013,0.25,4,Satisfacción,0.75,0.1,0,0.0
+13,10014,Chocolandia,México,México D.F,7001014,1.0,4,Satisfacción,0.75,0.1,1,0.1
+14,10015,Los tamarindos,México,México D.F,7001015,0.75,4,Satisfacción,0.75,0.1,1,0.1
+15,10016,La torre,México,Acapulco,7001016,1.0,4,Satisfacción,0.75,0.1,1,0.1
+16,10017,Campo fresco,México,Acapulco,7001017,0.5,4,Satisfacción,0.75,0.1,0,0.0
+17,10018,La competencia,México,Acapulco,7001018,0.75,4,Satisfacción,0.75,0.1,1,0.1
+18,10019,Tutuman,México,Acapulco,7001019,0.5,4,Satisfacción,0.75,0.1,0,0.0
+19,10020,El poórtico,México,Acapulco,7001020,0.0,4,Satisfacción,0.75,0.1,0,0.0
